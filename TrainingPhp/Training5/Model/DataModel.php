@@ -1,0 +1,3 @@
+<?php
+
+$dataModel = array();
